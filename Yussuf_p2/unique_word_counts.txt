@@ -1,0 +1,13 @@
+Homecoming : 1
+Perfection : 3
+Ducat : 2
+tablet : 2
+fast : 1
+Faithful : 1
+dove : 1
+Love : 2
+honest : 1
+Value : 1
+Jerry : 3
+Fast : 1
+Paris : 2
